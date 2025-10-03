@@ -76,6 +76,10 @@ main {
 }
 .outrun h2 {
   color: var(--sub-title1);
+  margin-bottom: 1rem;
+}
+.outrun h1 {
+  margin-bottom: 1rem;
 }
 
 .david {
@@ -119,7 +123,18 @@ main {
   grid-template-columns: repeat(3, 1fr);
   width: 100%;
   font-size: var(--font-size);
-  background-color: lightcoral;
+  font-family: var(--font-text);
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+.outrun-footer {
+  background-color: var(--sub-title1);
+}
+.david-footer {
+  background-color: var(--sub-title2);
+}
+.samurai-footer {
+  background-color: var(--sub-title3);
 }
 .footer-detail {
   display: flex;
@@ -127,9 +142,9 @@ main {
   align-items: center;
   padding: 1rem;
 }
-.david-footer,
-.outrun-footer,
-.samurai-footer {
+.david-footer-detail,
+.outrun-footer-detail,
+.samurai-footer-detail {
   border-right: 1px solid white;
 }
 
