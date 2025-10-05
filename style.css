@@ -28,10 +28,8 @@ main {
 }
 .outrun h2 {
   color: var(--sub-title1);
-  margin-bottom: 1rem;
 }
 .outrun h1 {
-  margin-bottom: 1rem;
   cursor: pointer;
   transition: color 0.3s ease;
 }
