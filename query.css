@@ -37,6 +37,9 @@
     margin-bottom: 1rem;
     gap: 0;
   }
+  .card {
+    width: 95%;
+  }
   .outrun h2 {
     margin-bottom: 0;
   }
