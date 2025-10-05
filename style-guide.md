@@ -1,45 +1,38 @@
-🟪 Carte 1 — Ville néon (Violet / Magenta)
+## Layout
 
-Header image : ville cyberpunk avec néons violets/roses
+The designs were created to the following widths:
 
-Fond de la carte : #0D0221 (noir violacé)
+- Mobile: 375px
+- Tablet: 768px
+- Desktop: 1024px
+- Desktop-l: 1440px
 
-Texte : #E0E0E0 (gris clair)
+## Colors
 
-Footer : #FF00FF (magenta néon) avec texte en blanc
+## primary
 
-🟦 Carte 2 — Cyborg (Bleu électrique / Cyan)
+- Deep Indigo: hsl(261, 89%, 7%);
+- Space Blue: hsl(228, 57%, 9%);
+- Light Gray: hsl(0, 0%, 88%);
+- Vivid Purple: hsl(300, 100%, 50%);
+- Off-White: hsl(0, 0%, 96%);
+- Cyan: hsl(180, 100%, 50%);
+- Jet Black: hsl(0, 0%, 2%);
+- Silver Gray: hsl(0, 0%, 80%);
+- Neon Green: hsl(111, 100%, 54%);
+- Vivid Orange-Red: hsl(18, 100%, 50%);
 
-Header image : un cyborg avec reflets bleus
+### Body Copy
 
-Fond de la carte : #0A0F24 (bleu nuit très sombre)
+- Font size (titles): 24px
+- Font size (sub-title): 16px
+- Font size (paragraphs): 14px
 
-Texte : #F5F5F5 (presque blanc)
+### Font
 
-Footer : #00FFFF (cyan néon) avec texte en noir pour contraste
-
-🟩 Carte 3 — Rues futuristes (Vert acide / Orange)
-
-Header image : ruelle sombre avec néons verts/orangés
-
-Fond de la carte : #050505 (noir pur)
-
-Texte : #CCCCCC (gris clair)
-
-Footer : #39FF14 (vert acide néon) ou #FF4E00 (orange néon) avec texte en noir
-
-Titres / headers : Orbitron, sans-serif
-
-Texte / body : Rajdhani, sans-serif
-
-Audiowide - titre - 24px
-share tech mono - text - 14px
-rejdhani - sous-titre - 16px
-
-Header (titre du post) : 1.5rem (~24px)
-
-Sous-texte (description) : 1rem (~16px)
-
-Footer infos (READ, VIEWS, COMMENTS) : 0.85rem (~14px)
-
-Date / temps écoulé : 0.9rem (~15px), en accent color (rose, cyan ou vert selon la carte)
+- Family: [Audiowide](https://fonts.google.com/specimen/Audiowide)
+- Weights: 500, 700, 800
+- Family: [Share Tech Mono](https://fonts.google.com/specimen/Share+Tech+Mono)
+- Weights: 500, 700, 800
+- Family: [Rajdhani](https://fonts.google.com/specimen/Rajdhani)
+- Weights: 500, 700, 800
