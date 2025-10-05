@@ -1,4 +1,4 @@
-@media (max-width: 60rem) {
+@media (max-width: 600px) {
   body {
     background: linear-gradient(var(--background), var(--background-gr));
     padding: 1rem;
