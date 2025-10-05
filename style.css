@@ -32,6 +32,11 @@ main {
 }
 .outrun h1 {
   margin-bottom: 1rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+.outrun h1:hover {
+  color: var(--sub-title1);
 }
 
 /*CARD 2*/
@@ -47,12 +52,26 @@ main {
   border-top-left-radius: 1.2rem;
   border-top-right-radius: 1.2rem;
 }
+.david h1 {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+.david h1:hover {
+  color: var(--sub-title2);
+}
 /*CARD 3*/
 .samurai {
   color: var(--text3);
   background-color: var(--background3);
 }
 .samurai h2 {
+  color: var(--sub-title3);
+}
+.samurai h1 {
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+.samurai h1:hover {
   color: var(--sub-title3);
 }
 
